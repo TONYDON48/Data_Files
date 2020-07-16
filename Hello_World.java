@@ -1,16 +1,5 @@
-<!DOCTYPE HTML>
-<html>
-
-<body>
-
-  <p>Before the script...</p>
-
-  <script>
-    alert( 'Hello, world!' );
-  </script>
-
-  <p>...After the script.</p>
-
-</body>
-
-</html>
+public class Hello_World {
+   public static void main(String[] args) {
+System.out.println("Hello, World");
+   }
+}
